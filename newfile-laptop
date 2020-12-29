@@ -1,2 +1,6 @@
 line 1 laptop
+<<<<<<< HEAD
 line 2 laptop
+=======
+line 2 github
+>>>>>>> a40c706131a70beca750395f0475e6cefc2446f3
